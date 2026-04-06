@@ -34,7 +34,7 @@ getNewHit();
 
 var score = 0;
 function incScore (){
-    score += 10;
+    score += 5;
     document.querySelector("#scoreElm").innerHTML = score;
     
 }
