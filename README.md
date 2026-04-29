@@ -1,1 +1,6 @@
 # Pop-Number-Game
+This is my first game.
+While making this game by following a sheriyans youtube tutorial, I learn:
+1- how to generate randon numbers and update it in html div tag with javascript.
+2- how to use functions and use loops to call events on click.
+3- what is css flex wrap\nowrap use.
